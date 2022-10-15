@@ -149,7 +149,7 @@ while ( $loop->have_posts() ) {
                         <div class="col-xl-6">
                             <div class="blog-left">
                           <a href="<?php echo get_permalink($id); ?>">
-                <img src="<?php echo the_post_thumbnail(); ?>"
+                <img src="<?php the_post_thumbnail(); ?>"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
                         </div>

@@ -1,1 +1,3 @@
+https://developer.wordpress.org/plugins/post-types/working-with-custom-post-types/
+
 https://themes.pixelstrap.com/multikart/front-end/blog-page.html
